@@ -2,7 +2,7 @@ export const Bio = {
   name: "Raksha Pachole",
   roles: ["React JS Developer", "Front-End Developer", "Software Engineer"],
   description:
-    "I am a passionate React JS developer with a deep love for crafting comprehensive web applications that offer valuable services to users. My expertise spans the entire stack, from server-side logic to creating engaging user interfaces. If you'd like to learn more about my work, please explore my portfolio.",
+    "I am a passionate React JS developer with a deep love for crafting comprehensive web applications that offer valuable services to users. My expertise spans the entire stack, from server-side logic to creating engaging user interfaces.I am an immediate joiner. If you'd like to learn more about my work, please explore my portfolio.",
   github: "https://github.com/rkpachole",
   resume: "/img/update resume.pdf",
   linkedin: "https://www.linkedin.com/in/raksha-pachole-659744181/",
@@ -239,7 +239,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://www.mpbse.nic.in/resources/images/LOGO1.1.png",
+    img: "https://mycareersview.com/afile/mcv13833_MadhyaPradeshBoard.jpg",
     school: "Higher Secondary School Baghwada",
     date: "July 2015 - June 2016",
     grade: "70.4%",
@@ -247,7 +247,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://www.mpbse.nic.in/resources/images/LOGO1.1.png",
+    img: "https://mycareersview.com/afile/mcv13833_MadhyaPradeshBoard.jpg",
     school: "High School Baghwada",
     date: "July 2013 - June 2014",
     grade: "74.16%",
@@ -298,7 +298,7 @@ export const projects = [
   {
     id: 2,
     title: "FilghtBooking",
-    date: "January 2024 to December 2024",
+    date: "January 2024 to April 2024",
     description:
       "Key features encompass user authentication, intuitive flight search functionality, secure payment,processing,automated ticket issuance, and a admin dashboard for seamless management.",
       image: "http://winzo.clientdemobot.com/static/media/header-bg-img.a8daa4f1c71b70a854dd.jpg",

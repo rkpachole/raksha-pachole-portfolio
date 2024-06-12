@@ -12,11 +12,11 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-         I have worked on various Frontend and React-JS Projects. Here are some of my projects.
+         I have worked on various React-JS Projects. Here are some of my projects.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
-            <ToggleButton active value="all" onClick={() => setToggle('all')}>FRONTEND</ToggleButton>
+            <ToggleButton active value="all" onClick={() => setToggle('all')}>React JS Project</ToggleButton>
             :
             <ToggleButton value="all" onClick={() => setToggle('all')}>React JS Project</ToggleButton>
           }
