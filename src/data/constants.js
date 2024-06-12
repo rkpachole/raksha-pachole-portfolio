@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a passionate React JS developer with a deep love for crafting comprehensive web applications that offer valuable services to users. My expertise spans the entire stack, from server-side logic to creating engaging user interfaces.I am an immediate joiner. If you'd like to learn more about my work, please explore my portfolio.",
   github: "https://github.com/rkpachole",
-  resume: "/img/update resume.pdf",
+  resume: "/img/resume.pdf",
   linkedin: "https://www.linkedin.com/in/raksha-pachole-659744181/",
   insta:
     "https://www.instagram.com/bhoomi_pachole_ji/",
@@ -259,7 +259,7 @@ export const projects = [
   {
     id: 0,
     title: "HR Management System For Imenso",
-    date: "Feb 2022 - DEC 2022",
+    date: "January 2022 - December 2022",
     description:
       "Emphasizing its user-specific dashboard, time tracking functionality, break management, leave categorization, and real-time project task monitoring capabilities",
       image: "/img/hrm.imenso.in.jpeg",
@@ -278,7 +278,7 @@ export const projects = [
   {
     id: 1,
     title: "Bitbaroda",
-    date: "Jan 2023 - Dec 2023",
+    date: "January 2023 - December 2023",
     description:
       "The revamped CRM will centralized data access, optimizing, lead management, marketing HR, batch sechduling, exam portal ,accounting,Empowering authorized personel,it ensure efficientand secure website data secure website data management, enhancing, functionality and user experience.",
       image: "/img/bitbaroda.com.jpeg",
@@ -298,10 +298,11 @@ export const projects = [
   {
     id: 2,
     title: "FilghtBooking",
-    date: "January 2024 to April 2024",
+    date: "January 2024 to June 2024",
     description:
       "Key features encompass user authentication, intuitive flight search functionality, secure payment,processing,automated ticket issuance, and a admin dashboard for seamless management.",
-      image: "http://winzo.clientdemobot.com/static/media/header-bg-img.a8daa4f1c71b70a854dd.jpg",
+     image: "/img/flightbooking.jpg",
+
       tags: [
       "React.js",
       "Redux Toolkit",
